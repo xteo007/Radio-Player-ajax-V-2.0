@@ -1,0 +1,6 @@
+<playlist>
+	<item>
+		<title>Radio NOME HOTEL Hotel</title>
+		<filename>http://IP:PORTA/;stream.nsv</filename>
+	</item>
+</playlist>

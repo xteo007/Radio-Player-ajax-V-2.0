@@ -1,0 +1,7 @@
+<ASX Version = "3.0">
+<Title>Radio NOME HOTEL Hotel</Title>
+<Copyright>Radio NOME HOTEL Hotel</Copyright>
+<Entry>
+<Ref href = "http://IP:PORTA/" /> 
+</Entry>
+</ASX>
